@@ -3,8 +3,14 @@
 === Description
 Plugin permetant de creer et gerer une alarme avec Jeedom
 
+'''
 === Configuration
 include::configuration.asciidoc[]
 
+'''
+=== FAQ
+include::faq.asciidoc[]
+
+'''
 === Changelog
 include::changelog.asciidoc[]
