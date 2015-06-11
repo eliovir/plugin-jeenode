@@ -1,7 +1,7 @@
 == Alarme
 
 === Description
-Plugin permetant de creer et gerer une alarme avec Jeedom
+Plugin permetant de créer et de gérer une alarme avec Jeedom.
 
 '''
 === Configuration
